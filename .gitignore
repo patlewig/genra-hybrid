@@ -1,4 +1,9 @@
-# Byte-compiled / optimized / DLL files
+#User credentials and virtual environment
+config.py
+venv/
+notebooks/04-ajl-nn_test.ipynb
+
+#  Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
 
