@@ -1,7 +1,8 @@
 #User credentials and virtual environment
 config.py
 venv/
-notebooks/04-ajl-nn_test.ipynb
+notebooks/backup_save.csv
+references/Tutorial_genra-py.ipynb
 
 #  Byte-compiled / optimized / DLL files
 __pycache__/
