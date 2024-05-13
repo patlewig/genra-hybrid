@@ -3,6 +3,7 @@ config.py
 venv/
 notebooks/backup_save.csv
 references/Tutorial_genra-py.ipynb
+references/class_tests/backup_dfs/data.csv
 
 #  Byte-compiled / optimized / DLL files
 __pycache__/
