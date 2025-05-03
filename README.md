@@ -1,7 +1,13 @@
-genra-hybrid
+GenRA-Hybrid
 ==============================
 
-A short description of the project.
+Code repository supporting manuscript titled "An exploration of the use of hybrid fingerprints in Generalized Read-Across (GenRA) and their impact on predictive performance for selected *in vivo* toxicity outcomes.
+
+Please cite: Leary A, Shah I, Patlewicz G. An exploration of the use of hybrid fingerprints in Generalized Read-Across (GenRA) and their impact on predictive performance for selected *in vivo* toxicity outcomes. *Computational Toxicology* **2025** https://doi.org/10.1016/j.comtox.2025.100349
+
+Supplementary information referenced in the manuscript are available at https://doi.org/10.5281/zenodo.15200256
+
+Code repository is provided on an "as is" basis.
 
 Project Organization
 ------------
@@ -9,29 +15,7 @@ Project Organization
     ├── LICENSE
     ├── Makefile           <- Makefile with commands like `make data` or `make train`
     ├── README.md          <- The top-level README for developers using this project.
-    │
-    ├── models             <- CSRML files describing to ChemoTyper how to process fingerprints
-    │   └── mmc2.xml       <- AIMs fingerprints
-    │ 
     ├── notebooks          <- Jupyter notebooks containing all primary development code, including data analysis, data collection and preparation, and model building. 
-    │
-    ├── references         <- Data dictionaries, manuals, and all other explanatory materials.
-    │ 
-    ├── docs               <- A default Sphinx project; see sphinx-doc.org for details
-    ├── requirements.txt   <- The requirements file for reproducing the analysis environment, e.g.
-    │                         generated with `pip freeze > requirements.txt`
-    │
-    ├── setup.py           <- makes project pip installable (pip install -e .) so src can be imported
-    ├── src                <- Sources used in this project
-    │   ├── __init__.py    <- Makes src a Python module
-    │   │
-    │   ├── data           <- Data sets on which analysis is based.
-    │   │
-    │   ├── models         
-    │   │
-    │   └── visualization  <- Scripts to create exploratory and results oriented visualizations
-    │       └── visualize.py
-    │
     └── tox.ini            <- tox file with settings for running tox; see tox.readthedocs.io
 
 
