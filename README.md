@@ -1,7 +1,7 @@
 GenRA-Hybrid
 ==============================
 
-Code repository supporting manuscript titled "An exploration of the use of hybrid fingerprints in Generalized Read-Across (GenRA) and their impact on predictive performance for selected *in vivo* toxicity outcomes.
+Code repository supporting manuscript titled "An exploration of the use of hybrid fingerprints in Generalized Read-Across (GenRA) and their impact on predictive performance for selected *in vivo* toxicity outcomes".
 
 Please cite: Leary A, Shah I, Patlewicz G. An exploration of the use of hybrid fingerprints in Generalized Read-Across (GenRA) and their impact on predictive performance for selected *in vivo* toxicity outcomes. *Computational Toxicology* **2025** https://doi.org/10.1016/j.comtox.2025.100349
 
